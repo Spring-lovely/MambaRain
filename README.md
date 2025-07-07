@@ -24,3 +24,6 @@
   journal={preprint xxxxx},
   year={2025}
 }```
+
+## Contact
+If you have questions about this repo, please contact Shi (`230238514@seu.edu.cn`).
