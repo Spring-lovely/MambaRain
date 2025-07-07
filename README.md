@@ -14,3 +14,14 @@
 - [特性 2 的描述]
 - [特性 3 的描述]
 
+
+
+### Citation
+
+```
+@article{xx2025MambaRain,
+  title={MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting},
+  author={xx, xx, xx, xx},
+  journal={preprint xxxxx},
+  year={2025}
+}```
