@@ -19,7 +19,7 @@
 ### Citation
 
 ```
-@article{xx2025MambaRain,
+@article{shi2025MambaRain,
   title={MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting},
   author={xx, xx, xx, xx},
   journal={preprint xxxxx},
