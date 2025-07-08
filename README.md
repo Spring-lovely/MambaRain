@@ -5,7 +5,7 @@ Welcome to the MambaRain Project! This initiative aims to develop an efficient a
 
 ## Promotional Video
 Click the image below to view the promotional video:
-[![MambaRain 宣传视频](https://github.com/Spring-lovely/MambaRain/blob/main/MP4/MambaRain.png)](https://axing-git.github.io/media/MambaRain.mp4)
+[![MambaRain 宣传视频](https://github.com/Spring-lovely/MambaRain/blob/main/MP4/MambaRain1.png)](https://axing-git.github.io/media/MambaRain.mp4)
 **Note:** GitHub does not support direct MP4 video playback within the README. Clicking the link above will redirect you to the playback page, where you can watch the video.
 
 ## Project Features
