@@ -9,6 +9,10 @@ Click the image below to view the promotional video:
 
 **Note:** GitHub does not support direct MP4 video playback within the README. Clicking the link above will redirect you to the YouTube page, where you can watch the video.
 
+## Promotional Video
+Click the image below to view the promotional video:
+[![MambaRain 宣传视频](https://github.com/Spring-lovely/MambaRain/blob/main/MP4/MambaRain.png)](https://axing-git.github.io/)
+
 ## Project Features
 - [Multi‑Scale Spatio‑Temporal Modeling:Integrates Mamba’s long‑range temporal memory with self‑attention mechanisms to simultaneously capture the global evolution of storm systems and local convective details.]
 - [Terrain-aware Forecasting:Enhances precipitation prediction accuracy in complex terrains (e.g., mountains, coastlines) by incorporating DEM geographic data.]
