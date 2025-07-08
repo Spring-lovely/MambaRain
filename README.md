@@ -7,7 +7,7 @@ Welcome to the MambaRain Project! This initiative aims to develop an efficient a
 Click the image below to view the promotional video:
 [![MambaRain 宣传视频](https://github.com/Spring-lovely/MambaRain/blob/main/MP4/MambaRain.png)](https://youtu.be/p4SwZ76a-A0)
 
-注意：由于 GitHub 本身不能直接在 README 中播放 MP4 视频，上述链接点击后会跳转到视频文件页面。你可以在 GitHub 上查看视频内容。
+**Note:** GitHub does not support direct MP4 video playback within the README. Clicking the link above will redirect you to the YouTube page, where you can watch the video.
 
 ## Project Features
 - [Multi‑Scale Spatio‑Temporal Modeling:Integrates Mamba’s long‑range temporal memory with self‑attention mechanisms to simultaneously capture the global evolution of storm systems and local convective details.]
